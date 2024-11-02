@@ -1,0 +1,728 @@
+2024-10-30 09:06:50,504 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 09:06:50,505 INFO: Imported WebToursBaseUserClas
+2024-10-30 09:26:56,022 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 09:26:56,022 INFO: Imported WebToursBaseUserClas
+2024-10-30 09:32:25,719 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 09:32:25,719 INFO: Imported WebToursBaseUserClas
+2024-10-30 09:33:52,484 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 09:33:52,485 INFO: Imported WebToursBaseUserClas
+2024-10-30 09:36:51,654 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 09:36:51,655 INFO: Imported WebToursBaseUserClas
+2024-10-30 11:00:12,284 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 11:00:12,285 INFO: Imported WebToursBaseUserClas
+2024-10-30 11:52:57,891 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 11:54:37,120 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 11:54:37,121 INFO: Imported WebToursBaseUserClass
+2024-10-30 12:08:50,342 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 12:08:50,342 INFO: Imported WebToursBaseUserClass
+2024-10-30 12:16:54,225 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 12:16:54,226 INFO: Imported WebToursBaseUserClass
+2024-10-30 13:18:51,583 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 13:18:51,584 INFO: Imported WebToursBaseUserClass
+2024-10-30 13:26:53,397 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 13:26:53,397 INFO: Imported WebToursBaseUserClass
+2024-10-30 13:36:01,017 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 13:36:01,018 INFO: Imported WebToursBaseUserClass
+2024-10-30 13:40:52,143 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 13:40:52,143 INFO: Imported WebToursBaseUserClass
+2024-10-30 13:53:22,565 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 13:53:22,565 INFO: Imported WebToursBaseUserClass
+2024-10-30 14:06:36,568 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 14:06:36,568 INFO: Imported WebToursBaseUserClass
+2024-10-30 14:26:11,720 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 14:26:11,720 INFO: Imported WebToursBaseUserClass
+2024-10-30 14:32:30,291 INFO: WebToursBaseUserClass started. Host: http://localhost:1080
+2024-10-30 14:32:30,291 INFO: Imported WebToursBaseUserClass
+2024-10-30 14:41:51,995 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-10-30 14:41:51,995 INFO: Imported WebToursBaseUserClass
+2024-10-30 14:46:44,677 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-10-30 14:46:44,679 INFO: Imported WebToursBaseUserClass
+2024-10-30 18:56:23,548 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-10-30 18:56:23,548 INFO: Imported WebToursBaseUserClass
+2024-11-01 13:40:50,262 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 13:40:50,263 INFO: Imported WebToursBaseUserClass
+2024-11-01 14:26:05,729 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 14:26:05,729 INFO: Imported WebToursBaseUserClass
+2024-11-01 14:59:04,437 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 14:59:04,437 INFO: Imported WebToursBaseUserClass
+2024-11-01 15:04:07,046 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 15:04:07,047 INFO: Imported WebToursBaseUserClass
+2024-11-01 15:05:43,946 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 15:05:43,946 INFO: Imported WebToursBaseUserClass
+2024-11-01 15:23:16,198 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 15:23:16,199 INFO: Imported WebToursBaseUserClass
+2024-11-01 15:30:19,700 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 15:30:19,700 INFO: Imported WebToursBaseUserClass
+2024-11-01 15:31:14,072 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 15:31:14,072 INFO: Imported WebToursBaseUserClass
+2024-11-01 22:15:46,028 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 22:15:46,028 INFO: Imported WebToursBaseUserClass
+2024-11-01 22:20:45,474 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 22:20:45,474 INFO: Imported WebToursBaseUserClass
+2024-11-01 22:36:47,171 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 22:36:47,171 INFO: Imported WebToursBaseUserClass
+2024-11-01 22:39:21,718 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 22:39:21,718 INFO: Imported WebToursBaseUserClass
+2024-11-01 23:59:29,163 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-01 23:59:29,163 INFO: Imported WebToursBaseUserClass
+2024-11-02 00:51:16,302 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 00:51:16,302 INFO: Imported WebToursBaseUserClass
+2024-11-02 01:10:35,076 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 01:10:35,076 INFO: Imported WebToursBaseUserClass
+2024-11-02 01:10:35,397 INFO: __________
+ USER_SESSION PARAMETER: 140177.813365735HcVADQzpcHftDczcpDHHzf
+2024-11-02 01:10:36,321 INFO: __________
+ USER_SESSION PARAMETER: 140177.81344674HcVADQzpcHQVzzzHtDczcpDHHzHf
+2024-11-02 01:10:37,314 INFO: __________
+ USER_SESSION PARAMETER: 140177.813527744HcVADQzpciDDDDDDtDczcpDHHH
+2024-11-02 01:10:38,310 INFO: __________
+ USER_SESSION PARAMETER: 140177.813608748HcVADQzpciHftDczcpDHHHcf
+2024-11-02 01:10:39,299 INFO: __________
+ USER_SESSION PARAMETER: 140177.813689753HcVADQzpcQVzzzzHtDczcpDHHHf
+2024-11-02 01:10:40,309 INFO: __________
+ USER_SESSION PARAMETER: 140177.813770757HcVADQzpcQfiDDDDtDczcpDHHHHf
+2024-11-02 01:15:32,584 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 01:15:32,584 INFO: Imported WebToursBaseUserClass
+2024-11-02 01:15:32,915 INFO: r_00_3_response_text:<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140177.837424058HcVADQHpfVcftDczcpDifAHf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+2024-11-02 01:15:32,915 INFO: __________
+ USER_SESSION PARAMETER: 140177.837424058HcVADQHpfVcftDczcpDifAHf
+2024-11-02 01:15:33,863 INFO: r_00_3_response_text:<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140177.837505063HcVADQHpfVzzzzzHtDczcpDifV"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+2024-11-02 01:15:33,863 INFO: __________
+ USER_SESSION PARAMETER: 140177.837505063HcVADQHpfVzzzzzHtDczcpDifV
+2024-11-02 01:15:34,888 INFO: r_00_3_response_text:<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140177.837586067HcVADQHpfcAiDDDDtDczcpDifVcf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+2024-11-02 01:15:34,888 INFO: __________
+ USER_SESSION PARAMETER: 140177.837586067HcVADQHpfcAiDDDDtDczcpDifVcf
+2024-11-02 01:15:35,866 INFO: r_00_3_response_text:<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140177.837667072HcVADQHpfcftDczcpDifVf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+2024-11-02 01:15:35,866 INFO: __________
+ USER_SESSION PARAMETER: 140177.837667072HcVADQHpfcftDczcpDifVf
+2024-11-02 01:15:36,844 INFO: r_00_3_response_text:<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140177.837748076HcVADQHpfcQVzzzHtDczcpDifVHf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+2024-11-02 01:15:36,844 INFO: __________
+ USER_SESSION PARAMETER: 140177.837748076HcVADQHpfcQVzzzHtDczcpDifVHf
+2024-11-02 01:15:37,859 INFO: r_00_3_response_text:<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140177.837829081HcVADQHpfDDDDDDDtDczcpDifc"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+2024-11-02 01:15:37,859 INFO: __________
+ USER_SESSION PARAMETER: 140177.837829081HcVADQHpfDDDDDDDtDczcpDifc
+2024-11-02 01:15:38,861 INFO: r_00_3_response_text:<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140177.837910085HcVADQHpfDHftDczcpDifccf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+2024-11-02 01:15:38,862 INFO: __________
+ USER_SESSION PARAMETER: 140177.837910085HcVADQHpfDHftDczcpDifccf
+2024-11-02 01:15:39,859 INFO: r_00_3_response_text:<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140177.83799109HcVADQHpftVzzzzHtDczcpDifcf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+2024-11-02 01:15:39,859 INFO: __________
+ USER_SESSION PARAMETER: 140177.83799109HcVADQHpftVzzzzHtDczcpDifcf
+2024-11-02 01:15:40,852 INFO: r_00_3_response_text:<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140177.838072094HcVADQHpftfiDDDDtDczcpDifcHf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+2024-11-02 01:15:40,852 INFO: __________
+ USER_SESSION PARAMETER: 140177.838072094HcVADQHpftfiDDDDtDczcpDifcHf
+2024-11-02 16:27:48,445 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 16:27:48,445 INFO: Imported WebToursBaseUserClass
+2024-11-02 16:27:48,707 INFO:  USER_SESSION PARAMETER: 140182.271121912HcVAzcfpfHAiDDDDtDczDpHfDtcf
+2024-11-02 16:27:50,682 INFO:  USER_SESSION PARAMETER: 140182.271283921HcVAzcfpfHQVzzzHtDczDpHfDtHf
+2024-11-02 16:27:52,683 INFO:  USER_SESSION PARAMETER: 140182.27144593HcVAzcfpfiHftDczDpHfDfcf
+2024-11-02 16:35:01,212 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 16:35:01,212 INFO: Imported WebToursBaseUserClass
+2024-11-02 16:35:01,475 INFO:  USER_SESSION PARAMETER: 140182.306196841HcVAzcHpDHftDczDpHztcf
+2024-11-02 16:35:03,481 INFO:  USER_SESSION PARAMETER: 140182.30635885HcVAzcHpDiDDDDDDtDczDpHztD
+2024-11-02 16:35:05,446 INFO:  USER_SESSION PARAMETER: 140182.306520859HcVAzcHpDQVzzzzHtDczDpHztDf
+2024-11-02 16:35:07,451 INFO:  USER_SESSION PARAMETER: 140182.306682868HcVAzcHpttDczDpHztt
+2024-11-02 16:37:50,140 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 16:37:50,141 INFO: Imported WebToursBaseUserClass
+2024-11-02 16:37:50,461 INFO:  USER_SESSION PARAMETER: 140182.319886594HcVAzcipAHQVzzzHtDczDpHzitHf
+2024-11-02 16:37:52,413 INFO:  USER_SESSION PARAMETER: 140182.320048603HcVAzcipAiHftDczDpHzifcf
+2024-11-02 16:43:02,225 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 16:43:02,225 INFO: Imported WebToursBaseUserClass
+2024-11-02 16:43:03,297 INFO:  USER_SESSION PARAMETER: 140182.345240988HcVAzcQpDiDDDDDDtDczDpHHzD
+2024-11-02 16:43:04,567 INFO:  USER_SESSION PARAMETER: 140182.345321993HcVAzcQpDiHftDczDpHHzDcf
+2024-11-02 16:46:48,053 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 16:46:48,053 INFO: Imported WebToursBaseUserClass
+2024-11-02 16:46:48,361 INFO:  USER_SESSION PARAMETER: 140182.363466991HcVAzDApDcAiDDDDtDczDpHiVQcf
+2024-11-02 16:46:50,313 INFO:  USER_SESSION PARAMETER: 140182.363629HcVAzDApDcQVzzzHtDczDpHiVQHf
+2024-11-02 16:52:14,409 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 16:52:14,410 INFO: Imported WebToursBaseUserClass
+2024-11-02 16:52:14,664 INFO:  USER_SESSION PARAMETER: 140182.389874443HcVAzDVpzHQVzzzHtDczDpHQAAHf
+2024-11-02 16:52:16,638 INFO:  USER_SESSION PARAMETER: 140182.390036452HcVAzDVpziHftDczDpHQAVcf
+2024-11-02 16:52:18,636 INFO:  USER_SESSION PARAMETER: 140182.390198461HcVAzDVpzQfiDDDDtDczDpHQAVHf
+2024-11-02 16:52:20,645 INFO:  USER_SESSION PARAMETER: 140182.39036047HcVAzDVpHAtVzzzHtDczDpHQAccf
+2024-11-02 16:52:22,632 INFO:  USER_SESSION PARAMETER: 140182.390522479HcVAzDVpHVcftDczDpHQAcHf
+2024-11-02 16:52:24,624 INFO:  USER_SESSION PARAMETER: 140182.390684488HcVAzDVpHcAiDDDDtDczDpHQADcf
+2024-11-02 17:01:02,861 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 17:01:02,861 INFO: Imported WebToursBaseUserClass
+2024-11-02 17:01:03,133 INFO:  USER_SESSION PARAMETER: 140182.4327258HcVAzDDpiiDDDDDDtDczDpiADD
+2024-11-02 17:01:05,099 INFO:  USER_SESSION PARAMETER: 140182.432887809HcVAzDDpiQVzzzzHtDczDpiADDf
+2024-11-02 17:01:07,075 INFO:  USER_SESSION PARAMETER: 140182.433049818HcVAzDDpQtDczDpiADt
+2024-11-02 17:06:14,968 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 17:06:14,968 INFO: Imported WebToursBaseUserClass
+2024-11-02 17:06:15,226 INFO:  USER_SESSION PARAMETER: 140182.45799919HcVAzDfpViDDDDDDtDczDpiVVV
+2024-11-02 17:06:17,215 INFO:  USER_SESSION PARAMETER: 140182.458161199HcVAzDfpVQVzzzzHtDczDpiVVVf
+2024-11-02 17:06:19,189 INFO:  USER_SESSION PARAMETER: 140182.458323208HcVAzDfpctDczDpiVVc
+2024-11-02 17:06:21,199 INFO:  USER_SESSION PARAMETER: 140182.458485217HcVAzDfpcAiDDDDDtDczDpiVVcf
+2024-11-02 17:06:23,205 INFO:  USER_SESSION PARAMETER: 140182.458647226HcVAzDfpcVzzzzzHtDczDpiVVD
+2024-11-02 17:09:46,717 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 17:09:46,718 INFO: Imported WebToursBaseUserClass
+2024-11-02 17:09:46,975 INFO:  USER_SESSION PARAMETER: 140182.47509113HcVAzDzpAzcftDczDpiVzDHf
+2024-11-02 17:09:48,962 INFO:  USER_SESSION PARAMETER: 140182.475253139HcVAzDzpAHAiDDDDtDczDpiVztcf
+2024-11-02 17:09:50,936 INFO:  USER_SESSION PARAMETER: 140182.475415148HcVAzDzpAHQVzzzHtDczDpiVztHf
+2024-11-02 17:16:26,556 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 17:16:26,556 INFO: Imported WebToursBaseUserClass
+2024-11-02 17:16:26,862 INFO:  USER_SESSION PARAMETER: 140182.507492912HcVAzDHpHcQVzzzHtDczDpiczDHf
+2024-11-02 17:16:28,825 INFO:  USER_SESSION PARAMETER: 140182.507654921HcVAzDHpHDHftDczDpicztcf
+2024-11-02 17:31:47,458 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 17:31:47,458 INFO: Imported WebToursBaseUserClass
+2024-11-02 17:32:12,875 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 17:32:12,875 INFO: Imported WebToursBaseUserClass
+2024-11-02 17:32:13,190 INFO:  USER_SESSION PARAMETER: 140182.584204131HcVAztVpzHftDczDpifAAf
+2024-11-02 17:32:15,155 INFO:  USER_SESSION PARAMETER: 140182.58436614HcVAztVpziDDDDDDtDczDpifAV
+2024-11-02 17:33:57,595 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 17:33:57,596 INFO: Imported WebToursBaseUserClass
+2024-11-02 17:33:57,848 INFO:  USER_SESSION PARAMETER: 140182.592628595HcVAztcpVAiDDDDDtDczDpifczf
+2024-11-02 17:33:58,686 INFO: <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>
+2024-11-02 17:33:59,849 INFO:  USER_SESSION PARAMETER: 140182.592790603HcVAztcpVVzzzzzHtDczDpifcH
+2024-11-02 17:59:49,672 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 17:59:49,672 INFO: Imported WebToursBaseUserClass
+2024-11-02 17:59:49,926 INFO:  USER_SESSION PARAMETER: 140182.718347509HcVAztipfHftDczDpiQVtf
+2024-11-02 17:59:51,899 INFO:  USER_SESSION PARAMETER: 140182.718509518HcVAztipfiDDDDDDtDczDpiQVf
+2024-11-02 18:01:53,348 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 18:01:53,348 INFO: Imported WebToursBaseUserClass
+2024-11-02 18:01:53,660 INFO:  USER_SESSION PARAMETER: 140182.728392062HcVAztQpAQVzzzzHtDczDpiQtff
+2024-11-02 18:01:55,623 INFO:  USER_SESSION PARAMETER: 140182.72855407HcVAztQpVtDczDpiQtz
+2024-11-02 18:01:57,641 INFO:  USER_SESSION PARAMETER: 140182.728716079HcVAztQpVAiDDDDDtDczDpiQtzf
+2024-11-02 18:01:59,608 INFO:  USER_SESSION PARAMETER: 140182.728878088HcVAztQpVVzzzzzHtDczDpiQtH
+2024-11-02 18:02:01,617 INFO:  USER_SESSION PARAMETER: 140182.729040097HcVAztQpVcftDczDpiQtHf
+2024-11-02 18:06:19,546 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 18:06:19,546 INFO: Imported WebToursBaseUserClass
+2024-11-02 18:06:19,867 INFO:  USER_SESSION PARAMETER: 140182.749939247HcVAzfApctDczDpQAVc
+2024-11-02 18:06:21,818 INFO:  USER_SESSION PARAMETER: 140182.750101256HcVAzfApcAiDDDDDtDczDpQAVcf
+2024-11-02 19:15:14,990 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 19:15:14,990 INFO: Imported WebToursBaseUserClass
+2024-11-02 19:15:16,054 INFO:  USER_SESSION PARAMETER: 140183.084973674HcVAzzHptDDDDDDDtDcztpAAtz
+2024-11-02 19:15:16,546 INFO:  USER_SESSION PARAMETER: 140183.085054678HcVAzzHptDHftDcztpAAtzcf
+2024-11-02 19:15:17,497 INFO:  USER_SESSION PARAMETER: 140183.085135682HcVAzzHpttVzzzzHtDcztpAAtzf
+2024-11-02 19:15:18,489 INFO:  USER_SESSION PARAMETER: 140183.085216687HcVAzzHpttfiDDDDtDcztpAAtzHf
+2024-11-02 19:15:19,529 INFO:  USER_SESSION PARAMETER: 140183.085297691HcVAzzHptftDcztpAAtH
+2024-11-02 19:15:20,550 INFO:  USER_SESSION PARAMETER: 140183.085378696HcVAzzHptftVzzzHtDcztpAAtHcf
+2024-11-02 19:24:30,873 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 19:24:30,873 INFO: Imported WebToursBaseUserClass
+2024-11-02 19:26:06,715 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 19:26:06,715 INFO: Imported WebToursBaseUserClass
+2024-11-02 19:26:07,058 INFO:  USER_SESSION PARAMETER: 140183.137707574HcVAzHApVtfiDDDDtDcztpAcAiHf
+2024-11-02 19:26:07,982 INFO:  USER_SESSION PARAMETER: 140183.137788578HcVAzHApVftDcztpAcAQ
+2024-11-02 19:26:08,989 INFO:  USER_SESSION PARAMETER: 140183.137869583HcVAzHApVftVzzzHtDcztpAcAQcf
+2024-11-02 19:26:09,977 INFO:  USER_SESSION PARAMETER: 140183.137950587HcVAzHApVfiDDDDDtDcztpAcAQf
+2024-11-02 19:26:10,982 INFO:  USER_SESSION PARAMETER: 140183.138031592HcVAzHApVzcftDcztpAcAQHf
+2024-11-02 19:26:11,977 INFO:  USER_SESSION PARAMETER: 140183.138112596HcVAzHApVzzzzzzHtDcztpAcV
+2024-11-02 19:26:13,005 INFO:  USER_SESSION PARAMETER: 140183.138193601HcVAzHApVHAiDDDDtDcztpAcVAcf
+2024-11-02 19:43:56,922 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 19:43:56,922 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:00:08,265 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 20:00:08,265 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:18:13,996 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 20:18:13,996 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:19:25,266 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 20:19:25,267 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:23:26,954 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 20:23:26,954 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:26:04,402 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 20:26:04,403 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:28:58,959 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 20:28:58,960 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:28:58,970 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:28:59,218 INFO:  USER_SESSION PARAMETER: 140183.443256379HcVAzifpizcftDcztpVVfVHf
+2024-11-02 20:42:44,253 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 20:42:44,253 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:42:44,263 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:42:44,642 INFO:  USER_SESSION PARAMETER: 140183.510166059HcVAziQpDAtVzzzHtDcztpVDficf
+2024-11-02 20:42:44,696 INFO: {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}
+2024-11-02 20:57:18,994 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 20:57:18,995 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:57:19,004 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:57:19,331 INFO:  USER_SESSION PARAMETER: 140183.580963953HcVAzQcpQtfiDDDDtDcztpVfHzHf
+2024-11-02 20:57:19,378 INFO: {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}
+2024-11-02 20:57:20,006 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:57:20,214 INFO:  USER_SESSION PARAMETER: 140183.581044957HcVAzQcpQftDcztpVfHH
+2024-11-02 20:57:20,266 INFO: {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}
+2024-11-02 20:57:21,006 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:57:21,214 INFO:  USER_SESSION PARAMETER: 140183.581125962HcVAzQcpQftVzzzHtDcztpVfHHcf
+2024-11-02 20:57:21,267 INFO: {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}
+2024-11-02 20:57:22,008 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:57:22,217 INFO:  USER_SESSION PARAMETER: 140183.581206966HcVAzQcpQfiDDDDDtDcztpVfHHf
+2024-11-02 20:57:22,270 INFO: {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}
+2024-11-02 20:57:23,016 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:57:23,233 INFO:  USER_SESSION PARAMETER: 140183.581287971HcVAzQcpQzcftDcztpVfHHHf
+2024-11-02 20:57:23,285 INFO: {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}
+2024-11-02 20:57:24,005 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:57:24,214 INFO:  USER_SESSION PARAMETER: 140183.581368975HcVAzQcpQzzzzzzHtDcztpVfHi
+2024-11-02 20:57:24,265 INFO: {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}
+2024-11-02 20:58:30,624 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 20:58:30,625 INFO: Imported WebToursBaseUserClass
+2024-11-02 20:58:30,634 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:58:30,854 INFO:  USER_SESSION PARAMETER: 140183.586796274HcVAzQDpctfiDDDDtDcztpVfQtHf
+2024-11-02 20:58:30,912 INFO: {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}
+2024-11-02 20:58:31,635 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:58:31,838 INFO:  USER_SESSION PARAMETER: 140183.586877278HcVAzQDpcftDcztpVfQf
+2024-11-02 20:58:31,887 INFO: {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}
+2024-11-02 20:58:32,647 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:58:32,851 INFO:  USER_SESSION PARAMETER: 140183.586958283HcVAzQDpcftVzzzHtDcztpVfQfcf
+2024-11-02 20:58:32,904 INFO: {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}
+2024-11-02 20:58:33,634 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:58:33,840 INFO:  USER_SESSION PARAMETER: 140183.587039287HcVAzQDpcfiDDDDDtDcztpVfQff
+2024-11-02 20:58:33,888 INFO: {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}
+2024-11-02 20:58:34,646 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 20:58:34,849 INFO:  USER_SESSION PARAMETER: 140183.587120292HcVAzQDpczcftDcztpVfQfHf
+2024-11-02 20:58:34,896 INFO: {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}
+2024-11-02 21:06:01,780 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 21:06:01,780 INFO: Imported WebToursBaseUserClass
+2024-11-02 21:06:01,788 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:06:02,094 INFO:  USER_SESSION PARAMETER: 140183.623329283HcVAzQfpVcftDcztpVHAHf
+2024-11-02 21:06:02,145 INFO: {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}
+2024-11-02 21:06:02,801 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:06:03,061 INFO:  USER_SESSION PARAMETER: 140183.623410288HcVAzQfpVcQVzzzHtDcztpVHAHHf
+2024-11-02 21:06:03,113 INFO: {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}
+2024-11-02 21:06:03,802 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:06:04,062 INFO:  USER_SESSION PARAMETER: 140183.623491292HcVAzQfpVDDDDDDDtDcztpVHAi
+2024-11-02 21:06:04,114 INFO: {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}
+2024-11-02 21:06:04,793 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:06:05,318 INFO:  USER_SESSION PARAMETER: 140183.623572296HcVAzQfpVDHftDcztpVHAicf
+2024-11-02 21:06:05,370 INFO: {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}
+2024-11-02 21:06:05,793 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:06:06,048 INFO:  USER_SESSION PARAMETER: 140183.623653301HcVAzQfpVtVzzzzHtDcztpVHAif
+2024-11-02 21:06:06,101 INFO: {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}
+2024-11-02 21:06:06,800 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:06:07,064 INFO:  USER_SESSION PARAMETER: 140183.623734305HcVAzQfpVtfiDDDDtDcztpVHAiHf
+2024-11-02 21:06:07,119 INFO: {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}
+2024-11-02 21:06:07,788 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:06:08,099 INFO:  USER_SESSION PARAMETER: 140183.62381531HcVAzQfpVftDcztpVHAQ
+2024-11-02 21:06:08,152 INFO: {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}
+2024-11-02 21:12:33,495 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 21:12:33,496 INFO: Imported WebToursBaseUserClass
+2024-11-02 21:12:33,512 INFO: Test data for users is: [{'username': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'username': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'username': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'username': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'username': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'username': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'username': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'username': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'username': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'username': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:12:34,880 INFO:  USER_SESSION PARAMETER: 140183.655164034HcVAzQzpHzcftDcztpViAfHf
+2024-11-02 21:12:34,927 INFO: {'username': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}
+2024-11-02 21:12:34,928 INFO: chosen username: Jack/password: James
+2024-11-02 21:12:35,012 WARNING: Assersion error: text pattrn User password was correct was not foound in response body 
+2024-11-02 21:15:28,071 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 21:15:28,071 INFO: Imported WebToursBaseUserClass
+2024-11-02 21:15:28,082 INFO: Test data for users is: [{'username': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'username': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'username': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'username': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'username': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'username': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'username': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'username': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'username': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'username': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:15:28,388 INFO:  USER_SESSION PARAMETER: 140183.669177805HcVAzQHptiDDDDDDtDcztpVitQ
+2024-11-02 21:15:28,441 INFO: {'username': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}
+2024-11-02 21:15:28,442 INFO: chosen username: Jacobb/password: Longman
+2024-11-02 21:15:28,521 WARNING: Assersion error: text pattrn User password was correct was not foound in response body 
+2024-11-02 21:32:56,069 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 21:32:56,069 INFO: Imported WebToursBaseUserClass
+2024-11-02 21:32:56,086 INFO: Test data for users is: [{'login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 21:32:56,381 INFO:  USER_SESSION PARAMETER: 140183.754070474HcVAHAVpiftDcztpcVVV
+2024-11-02 21:32:56,443 INFO: {'login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}
+2024-11-02 21:32:56,443 INFO: chosen username: Thomas/password: Shelbi
+2024-11-02 21:32:56,511 WARNING: Assersion error: text pattrn User password was correct was not foound in response body 
+2024-11-02 21:37:44,520 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 21:37:44,520 INFO: Imported WebToursBaseUserClass
+2024-11-02 21:37:44,535 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}]
+2024-11-02 21:37:44,807 INFO:  USER_SESSION PARAMETER: 140183.777480761HcVAHADpAftVzzzHtDcztpcViDcf
+2024-11-02 21:37:44,863 INFO: {'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}
+2024-11-02 21:37:44,863 INFO: chosen username: jojo/password: bean
+2024-11-02 21:45:00,576 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 21:45:00,576 INFO: Imported WebToursBaseUserClass
+2024-11-02 21:45:00,584 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}]
+2024-11-02 21:45:00,911 INFO:  USER_SESSION PARAMETER: 140183.812798704HcVAHAtpiHAiDDDDtDcztpccQccf
+2024-11-02 21:45:00,961 INFO: {'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}
+2024-11-02 21:45:00,961 INFO: chosen username: jojo/password: bean
+2024-11-02 21:45:01,588 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}]
+2024-11-02 21:45:01,835 INFO:  USER_SESSION PARAMETER: 140183.812879708HcVAHAtpiHftDcztpccQcf
+2024-11-02 21:45:01,883 INFO: {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}
+2024-11-02 21:45:01,883 INFO: chosen username: Mark/password: Tven
+2024-11-02 21:45:01,952 WARNING: Assersion error: text pattrn User password was correct was not foound in response body 
+2024-11-02 21:52:42,973 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 21:52:42,973 INFO: Imported WebToursBaseUserClass
+2024-11-02 21:52:42,983 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}]
+2024-11-02 21:52:43,278 INFO:  USER_SESSION PARAMETER: 140183.850222762HcVAHAzpHQfiDDDDtDcztpctAHHf
+2024-11-02 21:52:43,330 INFO: {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}
+2024-11-02 21:52:43,330 INFO: chosen username: Mark/password: Tven
+2024-11-02 21:52:43,988 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}]
+2024-11-02 21:52:44,216 INFO:  USER_SESSION PARAMETER: 140183.850303767HcVAHAzpitDcztpctAi
+2024-11-02 21:52:44,269 INFO: {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}
+2024-11-02 21:52:44,269 INFO: chosen username: Mark/password: Tven
+2024-11-02 22:07:40,299 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 22:07:40,300 INFO: Imported WebToursBaseUserClass
+2024-11-02 22:07:40,310 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 22:07:40,575 INFO:  USER_SESSION PARAMETER: 140183.922883759HcVAHVApfDDDDDDDtDcztpczDc
+2024-11-02 22:07:40,629 INFO: {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}
+2024-11-02 22:07:40,629 INFO: chosen username: Thomas/password: Shelbi
+2024-11-02 22:07:41,309 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 22:07:41,592 INFO:  USER_SESSION PARAMETER: 140183.922964763HcVAHVApfDHftDcztpczDccf
+2024-11-02 22:07:41,654 INFO: {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}
+2024-11-02 22:07:41,654 INFO: chosen username: George/password: Miller
+2024-11-02 22:09:28,834 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 22:09:28,834 INFO: Imported WebToursBaseUserClass
+2024-11-02 22:09:28,842 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 22:09:29,143 INFO:  USER_SESSION PARAMETER: 140183.931713244HcVAHVApQiHftDcztpczfQcf
+2024-11-02 22:09:29,195 INFO: {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}
+2024-11-02 22:09:29,195 INFO: chosen username: Harry/password: Bishop
+2024-11-02 22:09:29,853 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 22:09:30,145 INFO:  USER_SESSION PARAMETER: 140183.931794249HcVAHVApQQVzzzzHtDcztpczfQf
+2024-11-02 22:09:30,198 INFO: {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}
+2024-11-02 22:09:30,199 INFO: chosen username: Tony/password: Versety
+2024-11-02 22:11:22,906 INFO: WebToursBaseUserClass started. Host: http://webtours.load-test.ru:1080
+2024-11-02 22:11:22,907 INFO: Imported WebToursBaseUserClass
+2024-11-02 22:11:22,915 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 22:11:23,223 INFO:  USER_SESSION PARAMETER: 140183.940947752HcVAHVVptzcftDcztpcziHHf
+2024-11-02 22:11:23,277 INFO: {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}
+2024-11-02 22:11:23,277 INFO: chosen username: Jacobb/password: Longman
+2024-11-02 22:11:23,928 INFO: Test data for users is: [{'Login': 'jojo', 'password': 'bean', 'address1': 'First street', 'address2': 'Uberty', 'pass1': 'jojo', 'arrive': 'Bean', 'depart': 'Portland', None: ['Denver']}, {'Login': 'Mark', 'password': 'Tven', 'address1': 'Boom street', 'address2': 'Akron', 'pass1': 'Mark Tven', 'arrive': 'San Francisco', 'depart': 'Frankfut'}, {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}, {'Login': 'Thomas', 'password': 'Shelbi', 'address1': 'Opolo street', 'address2': 'Boston', 'pass1': 'Thomas Shelbi', 'arrive': 'Sydney', 'depart': 'Los Angeles'}, {'Login': 'Oliver', 'password': 'Abramson', 'address1': 'Fire steet', 'address2': 'Buffalo', 'pass1': 'Oliver Abramson', 'arrive': 'Zurich', 'depart': 'Paris'}, {'Login': 'Jack', 'password': 'James', 'address1': 'Frends street', 'address2': 'Cary', 'pass1': 'Jack James', 'arrive': 'Denver', 'depart': 'Portland'}, {'Login': 'Harry', 'password': 'Bishop', 'address1': 'Obama street', 'address2': 'Concord', 'pass1': 'Harry Bishop', 'arrive': 'Frankfurt', 'depart': 'San Francisco'}, {'Login': 'Jacobb', 'password': 'Longman', 'address1': 'Wall Street', 'address2': 'Erie', 'pass1': 'Jacobb Longman', 'arrive': 'London', 'depart': 'Seattle'}, {'Login': 'Charley', 'password': 'Mason', 'address1': 'Liberty street', 'address2': 'Frisco', 'pass1': 'Charley Mason', 'arrive': 'Los Angeles', 'depart': 'Sydney'}, {'Login': 'George', 'password': 'Miller', 'address1': 'Lafayette Street', 'address2': 'Gresham', 'pass1': 'George Miller', 'arrive': 'Paris', 'depart': 'Zurich'}]
+2024-11-02 22:11:24,153 INFO:  USER_SESSION PARAMETER: 140183.941028757HcVAHVVptzzzzzzHtDcztpczii
+2024-11-02 22:11:24,207 INFO: {'Login': 'Tony', 'password': 'Versety', 'address1': 'Beach street', 'address2': 'Vicecity', 'pass1': 'Tony Versety', 'arrive': 'Seattle', 'depart': 'London'}
+2024-11-02 22:11:24,207 INFO: chosen username: Tony/password: Versety
