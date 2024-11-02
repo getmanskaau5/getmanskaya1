@@ -1,3 +1,0 @@
-locust
-pydantic
-pydantic-settings
