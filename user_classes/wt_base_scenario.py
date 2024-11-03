@@ -154,4 +154,3 @@ class  WebToursBaseUserClass(FastHttpUser): # юзер-класс, приним�
      tasks = [PurchaseFlightTicket]
 
 
-
