@@ -34,3 +34,4 @@ class MyCustomLoadShape(LoadTestShape):
                 return tick_data
 
         return None
+    

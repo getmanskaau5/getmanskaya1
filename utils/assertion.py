@@ -18,4 +18,3 @@ def check_http_response(response, param_to_chek) -> bool:
 
     finally:
         return result
-
