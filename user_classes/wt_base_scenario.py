@@ -153,4 +153,3 @@ class  WebToursBaseUserClass(FastHttpUser): # юзер-класс, приним�
      logger.info(f'WebToursBaseUserClass started. Host: {host}')
      tasks = [PurchaseFlightTicket]
 
-

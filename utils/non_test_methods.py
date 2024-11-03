@@ -5,4 +5,3 @@ def open_csv_file(filepath=str):
         reader = csv.DictReader(file)
         return list(reader)
     
-    

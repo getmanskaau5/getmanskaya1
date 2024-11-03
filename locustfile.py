@@ -11,4 +11,3 @@ if cfg.webtours_base.included:
 if cfg.webtours_cancel.included:
     pass
 
-

@@ -35,5 +35,3 @@ class MyCustomLoadShape(LoadTestShape):
 
         return None
     
-
-    
