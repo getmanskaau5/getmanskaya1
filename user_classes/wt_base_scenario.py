@@ -126,8 +126,8 @@ class PurchaseFlightTicket(SequentialTaskSet): # класс с задачами 
             #debug_stream=sys.stderr,
             catch_response=True
 
-            )   as r_01_02respovse:
-               check_http_response(r_01_02respovse, "Welcome to Web Tours") 
+            )   as r_01_02response:
+               check_http_response(r_01_02response, "Welcome to Web Tours") 
        
         uc00_getHomePage(self)
         uc01_LoginAction(self)
