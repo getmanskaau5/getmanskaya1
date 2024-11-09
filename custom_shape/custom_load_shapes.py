@@ -7,7 +7,7 @@ class MyCustomLoadShape(LoadTestShape):
         case "baseline":
             print ("сейчас будет бейзлайн")
             stages = [
-                {"duration": 60, "users": 2, "spawn_rate": 1}
+                {"duration": 60, "users": 1, "spawn_rate": 1}
             ]
             
         case "fixedload":
