@@ -1,3 +1,6 @@
+
+
+
 public class Comp {
     public static void main(String[] args) {
         // Создаем объект Employee
@@ -10,11 +13,11 @@ public class Comp {
         cleaner.displayInfo();
         System.out.println("приходит, убирает, обедает 30 мин., уходит с работы");
         driver.displayInfo();
-        System.out.println("приходит, убирает, обедает 40 мин., уходит с работы");
+        System.out.println("приходит, водит, обедает 40 мин., уходит с работы");
         manager.displayInfo();
-        System.out.println("приходит, убирает, обедает 20 мин., уходит с работы");
+        System.out.println("приходит, управляет, обедает 20 мин., уходит с работы");
         security.displayInfo();
-        System.out.println("приходит, убирает, обедает 60 мин., уходит с работы");
+        System.out.println("приходит, охраняет, обедает 60 мин., уходит с работы");
     }
 }
 
