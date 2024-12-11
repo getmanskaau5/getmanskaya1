@@ -9,7 +9,8 @@ public class Application {
         List<Employee> employees = new ArrayList<>();
         employees.add(new Employee("Иван", "Иванов", 25, "Ответственность", new Cleaner()));
         employees.add(new Employee("Петр", "Петров", 35, "Хорошая реакция", new Driver()));
-        employees.add(new Employee("Кузьма", "Кузнецова", 30, "Лидерство", new Manager()));
+        employees.add(new Employee("Кузьма", "Кузнецов1" +
+                "", 30, "Лидерство", new Manager()));
         employees.add(new Employee("Сергей", "Сергеев", 40, "Внимательность", new Security()));
 
         Scanner scanner = new Scanner(System.in);
