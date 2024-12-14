@@ -30,6 +30,10 @@ public class Main {
                 for (String word : sortedWords) {
                     writer.write(word + ": " + wordCount.get(word));
                     writer.newLine();
+
+
+                    System.out.println("Слова и их частота:");
+                        System.out.println(word + ": " + wordCount.get(word));
                 }
 
                 // Нахождение слов с максимальной частотой
@@ -38,15 +42,18 @@ public class Main {
                 for (Map.Entry<String, Integer> entry : wordCount.entrySet()) {
                     if (entry.getValue() == maxFrequency) {
                         mostFrequentWords.add(entry.getKey());
+                        System.out.println("Слово(а) с максимальной частотой (" + maxFrequency + "): " + String.join(", ", mostFrequentWords));
                     }
                 }
 
                 // Вывод слов с максимальной частотой
+
                 writer.write("Слово(а) с максимальной частотой (" + maxFrequency + "): " + String.join(", ", mostFrequentWords));
             }
 
         } catch (IOException e) {
             e.printStackTrace();
+
         }
     }
 }
