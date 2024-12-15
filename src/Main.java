@@ -52,13 +52,13 @@ public class Main {
                     writer.write(word + ": " + wordCount.get(word));
                     writer.write(String.format("%s\t%.2f%%\n", word, frequencyPercentage));
                 }
-
-                writer.write("Слово(а) с максимальной частотой: " + mostFrequentWords + "\n");
-                writer.write("Частота: " + maxFrequency + "\n");
-                writer.write("Процент: " + String.format("%.2f", maxFrequencyPercentage) + "%\n");
                 System.out.println("Слово(а) с максимальной частотой: " + mostFrequentWords);
                 System.out.println("Частота: " + maxFrequency);
                 System.out.println("Процент: " + String.format("%.2f", maxFrequencyPercentage) + "%");
+                writer.write("Слово(а) с максимальной частотой: " + mostFrequentWords + "\n");
+                writer.write("Частота: " + maxFrequency + "\n");
+                writer.write("Процент: " + String.format("%.2f", maxFrequencyPercentage) + "%\n");
+
             }
 
         } catch (IOException e) {
