@@ -49,7 +49,7 @@ public class Main {
                     double frequencyPercentage = (count / (double) words.length) * 100;
                     System.out.println(word + ": " + wordCount.get(word));
                     System.out.printf("%s\t%.2f%%\n", word, frequencyPercentage);
-                    writer.write(word + ": " + wordCount.get(word));
+                    writer.write(": " + wordCount.get(word));
                     writer.write(String.format("%s\t%.2f%%\n", word, frequencyPercentage));
                 }
                 System.out.println("Слово(а) с максимальной частотой: " + mostFrequentWords);
