@@ -1,71 +1,71 @@
-2000: 1
-66: 6
-a: 1
-all: 1
-amarillo: 2
-and: 4
-arizona: 2
-barstow: 2
-bernardino: 2
-best: 1
-california: 2
-chicago: 1
-city: 2
-don: 2
-down: 2
-ever: 1
-flagstaff: 2
-forget: 2
-from: 3
-gallup: 2
-get: 8
-go: 2
-goes: 2
-highway: 1
-hip: 2
-if: 1
-it: 1
-just: 1
-kicks: 6
-kindly: 2
-kingman: 2
-l: 1
-ll: 2
-looks: 2
-louie: 2
-mexico: 2
-miles: 1
-missouri: 2
-more: 1
-motor: 1
-my: 1
-new: 2
-oh: 2
-oklahoma: 2
-on: 6
-plan: 1
-pretty: 2
-route: 6
-s: 2
-san: 2
-see: 2
-so: 2
-st: 2
-t: 2
-take: 3
-than: 1
-that: 4
-the: 3
-this: 2
-tip: 2
-to: 6
-trip: 2
-way: 2
-well: 6
-west: 1
-winds: 1
-winona: 2
-would: 2
-you: 5
-your: 6
-Слово(а) с максимальной частотой (8): get
+a: 1a	0,61%
+all: 1all	0,61%
+amarillo: 2amarillo	1,21%
+and: 4and	2,42%
+arizona: 2arizona	1,21%
+barstow: 2barstow	1,21%
+bernardino: 2bernardino	1,21%
+best: 1best	0,61%
+california: 2california	1,21%
+chicago: 1chicago	0,61%
+city: 2city	1,21%
+don: 2don	1,21%
+down: 2down	1,21%
+ever: 1ever	0,61%
+flagstaff: 2flagstaff	1,21%
+forget: 2forget	1,21%
+from: 3from	1,82%
+gallup: 2gallup	1,21%
+get: 8get	4,85%
+go: 2go	1,21%
+goes: 2goes	1,21%
+highway: 1highway	0,61%
+hip: 2hip	1,21%
+if: 1if	0,61%
+it: 1it	0,61%
+just: 1just	0,61%
+kicks: 6kicks	3,64%
+kindly: 2kindly	1,21%
+kingman: 2kingman	1,21%
+l: 1l	0,61%
+ll: 2ll	1,21%
+looks: 2looks	1,21%
+louie: 2louie	1,21%
+mexico: 2mexico	1,21%
+miles: 1miles	0,61%
+missouri: 2missouri	1,21%
+more: 1more	0,61%
+motor: 1motor	0,61%
+my: 1my	0,61%
+new: 2new	1,21%
+oh: 2oh	1,21%
+oklahoma: 2oklahoma	1,21%
+on: 6on	3,64%
+plan: 1plan	0,61%
+pretty: 2pretty	1,21%
+route: 6route	3,64%
+s: 2s	1,21%
+san: 2san	1,21%
+see: 2see	1,21%
+so: 2so	1,21%
+st: 2st	1,21%
+t: 2t	1,21%
+take: 3take	1,82%
+than: 1than	0,61%
+that: 4that	2,42%
+the: 3the	1,82%
+this: 2this	1,21%
+tip: 2tip	1,21%
+to: 6to	3,64%
+trip: 2trip	1,21%
+way: 2way	1,21%
+well: 6well	3,64%
+west: 1west	0,61%
+winds: 1winds	0,61%
+winona: 2winona	1,21%
+would: 2would	1,21%
+you: 5you	3,03%
+your: 6your	3,64%
+Слово(а) с максимальной частотой: [get]
+Частота: 8
+Процент: 5,06%
