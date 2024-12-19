@@ -2,26 +2,25 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
                            http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="starter" class="org.example.Wheel"/>
 
-    <bean id="wheel" class="Wheel"/>
-
-    <bean id="starter" class="Starter"/>
-    <bean id="sparkPlug" class="SparkPlug"/>
-    <bean id="engine" class="Engine">
-        <constructor-arg ref="starter"/>
-        <constructor-arg ref="sparkPlug"/>
+    <bean id="starter" class="org.example.Starter"/>
+    <bean id="sparkPlug" class="org.example.SparkPlug"/>
+    <bean id="engine" class="org.example.Engine">
+        <constructor-arg ref="org.example.starter"/>
+        <constructor-arg ref="org.example.sparkPlug"/>
     </bean>
 
-    <bean id="accumulator" class="Accumulator"/>
+    <bean id="accumulator" class="org.example.Accumulator"/>
 
-    <bean id="hinge" class="Hinge"/>
-    <bean id="differential" class="Differential"/>
-    <bean id="suspension" class="Suspension">
+    <bean id="hinge" class="org.example.Hinge"/>
+    <bean id="differential" class="org.example.Differential"/>
+    <bean id="suspension" class="org.example.Suspension">
         <constructor-arg ref="hinge"/>
         <constructor-arg ref="differential"/>
     </bean>
 
-    <bean id="car" class="Car">
+    <bean id="car" class="org.example.Car">
         <constructor-arg ref="wheel"/>
         <constructor-arg ref="engine"/>
         <constructor-arg ref="accumulator"/>

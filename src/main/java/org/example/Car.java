@@ -1,10 +1,14 @@
 package org.example;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.ComponentScan;
+
+@ComponentScan
 public class Car { private Wheel wheel;
     private Engine engine;
     private Accumulator accumulator;
     private Suspension suspension;
-
+@Autowired
     public Car(Wheel wheel, Engine engine, Accumulator accumulator, Suspension suspension) {
         this.wheel = wheel;
         this.engine = engine;

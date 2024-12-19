@@ -10,20 +10,22 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 
-//public class Mainxml {
-//    public static void main(String[] args) {
-    // Используем класс конфигурации AppConfig
-//        ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);;
+public class Mainxml {
+    public static void main(String[] args) {
+//     Используем класс конфигурации AppConfig
+        ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
+        ;
 
-    // Получаем объект Car
-//        Car car = context.getBean("car", Car.class);
-//    System.out.println(car);
+//     Получаем объект Car
+        Car car = context.getBean("car", Car.class);
+        System.out.println(car);
 
-    // Запись в файл
+//     Запись в файл
 //    try (BufferedWriter writer = new BufferedWriter(new FileWriter("car_output.txt"))) {
 //        writer.write(car.toString());
 //    } catch (IOException e) {
 //        e.printStackTrace();
 //    }
 //}
-//}
+    }
+}
