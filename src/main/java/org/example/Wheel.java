@@ -1,10 +1,11 @@
 package org.example;
 
-import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
 
-@ComponentScan
-public class Wheel {  @Override
-public String toString() {
-    return "This is a Wheel";
-}
+@Component
+public class Wheel {
+    @Override
+    public String toString() {
+        return "Wheel { type=Alloy }";
+    }
 }

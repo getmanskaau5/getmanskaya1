@@ -1,11 +1,11 @@
 package org.example;
 
-import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
 
-@ComponentScan
-
-public class Hinge {  @Override
-public String toString() {
-    return "Hinge";
-}
+@Component
+public class Hinge {
+    @Override
+    public String toString() {
+        return "Hinge { type=Double }";
+    }
 }

@@ -8,10 +8,10 @@
         <version>3.4.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.example</groupId>
-    <artifactId>Stop</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>Igor</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Stop</name>
+    <name>Igor</name>
     <description>Demo project for Spring Boot</description>
     <url/>
     <licenses>
@@ -39,7 +39,6 @@
             <artifactId>spring-context</artifactId>
             <version>6.1.14</version>
         </dependency>
-
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
@@ -60,11 +59,6 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>6.2.0</version>
-        </dependency>
     </dependencies>
 
     <build>
@@ -75,6 +69,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>

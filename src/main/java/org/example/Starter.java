@@ -1,10 +1,11 @@
 package org.example;
 
-import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
 
-@ComponentScan
-public class Starter {   @Override
-public String toString() {
-    return "Starter";
-}
+@Component
+public class Starter {
+    @Override
+    public String toString() {
+        return "Starter { type=Electric }";
+    }
 }

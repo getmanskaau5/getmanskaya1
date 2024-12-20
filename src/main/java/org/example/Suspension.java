@@ -1,12 +1,13 @@
 package org.example;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
 
-@ComponentScan
-public class Suspension {private Hinge hinge;
+@Component
+public class Suspension {
+    private Hinge hinge;
     private Differential differential;
-@Autowired
+    @Autowired
     public Suspension(Hinge hinge, Differential differential) {
         this.hinge = hinge;
         this.differential = differential;
@@ -14,6 +15,9 @@ public class Suspension {private Hinge hinge;
 
     @Override
     public String toString() {
-        return "Suspension with " + hinge.toString() + " and " + differential.toString();
+        return "Suspension {" +
+                "hinge=" + hinge +
+                ", differential=" + differential +
+                '}';
     }
 }

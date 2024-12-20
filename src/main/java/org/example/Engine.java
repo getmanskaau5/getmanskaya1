@@ -1,12 +1,13 @@
 package org.example;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
 
-@ComponentScan
-public class Engine { private Starter starter;
+@Component
+public class Engine {
+    private Starter starter;
     private SparkPlug sparkPlug;
-@Autowired
+    @Autowired
     public Engine(Starter starter, SparkPlug sparkPlug) {
         this.starter = starter;
         this.sparkPlug = sparkPlug;
@@ -14,6 +15,9 @@ public class Engine { private Starter starter;
 
     @Override
     public String toString() {
-        return "Engine with " + starter.toString() + " and " + sparkPlug.toString();
+        return "Engine {" +
+                "starter=" + starter +
+                ", sparkPlug=" + sparkPlug +
+                '}';
     }
 }

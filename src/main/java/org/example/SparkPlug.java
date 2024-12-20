@@ -1,10 +1,11 @@
 package org.example;
 
-import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
 
-@ComponentScan
-public class SparkPlug {  @Override
-public String toString() {
-    return "Spark Plug";
-}
+@Component
+public class SparkPlug {
+    @Override
+    public String toString() {
+        return "SparkPlug { type=Iridium }";
+    }
 }

@@ -1,10 +1,11 @@
 package org.example;
 
-import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
 
-@ComponentScan
-public class Differential {    @Override
-public String toString() {
-    return "Differential";
-}
+@Component
+public class Differential {
+    @Override
+    public String toString() {
+        return "Differential { type=Limited-Slip }";
+    }
 }
