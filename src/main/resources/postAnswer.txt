@@ -1,0 +1,14 @@
+{
+  "Person1": {
+    "name": "{name}",
+    "surname": "{surname}",
+    "age": {age}
+  },
+  "Person2": {
+    "name": "{surname}",
+    "surname": "{name}",
+    "age": {age} * 2
+  }
+}
+
+}
