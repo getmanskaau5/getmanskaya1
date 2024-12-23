@@ -1,0 +1,12 @@
+{
+    "Person1":{
+        "name":"{name}",
+        "surname":"{surname}",
+        "age":{age}
+    },
+    "Person2":{
+        "name2":"{surname}",
+        "surname2":"{name}",
+        "age_double":{age_double}
+    }
+}
