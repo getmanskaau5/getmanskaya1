@@ -25,11 +25,11 @@ public class FirstClass {
 
         // Проверка условий
         if (id <= 10) {
-            return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
                     .body("InternalServerError: Invalid parameters");
         }
         if (name.length() <5) {
-            return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
                     .body("InternalServerError: Invalid parameters");
         }
         // Задержка в зависимости от значения id
