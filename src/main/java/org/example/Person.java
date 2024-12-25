@@ -1,25 +1,11 @@
 package org.example;
 
+
+import lombok.Data;
+
+@Data
 public class Person {
     private String name;
     private String surname;
-    private Integer age;
-
-    public String getName() {
-        return name;
-    }
-
-    public String getSurname() {
-        return surname;
-    }
-
-    public Integer getAge() {
-        return age;
-    }
-
+    private int age;
 }
-// @Data
-//public class Person {
-//    private String name;
-//    private String surname;
-//    private int age;
