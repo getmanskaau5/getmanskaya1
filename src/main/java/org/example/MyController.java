@@ -48,7 +48,7 @@ public class MyController {
     }
 
     @PostMapping("/postRequest")
-    public ResponseEntity<?> postRequest(@RequestBody Person requestBody) {
+    public ResponseEntity<?> postRequest(@RequestBody Person requestBody) throws IOException {
         // Проверка условий
         if (requestBody.getName() == null || requestBody.getName().isEmpty() ||
                 requestBody.getSurname() == null || requestBody.getSurname().isEmpty() ||
@@ -58,17 +58,20 @@ public class MyController {
         }
 
         // Формирование JSON ответа
-        Map<String, Object> response = new HashMap<>();
 
-        response.put("name", requestBody.getName());
-        response.put("surname", requestBody.getSurname());
-        response.put("age_double}", requestBody.getAge() * 2);
-
+        String postAnswer = new String(Files.readAllBytes(
+                Paths.get("src/main/resources/postRequest.txt")));
+        String response = postAnswer
+                .replace("{name}", requestBody.getName())
+                .replace("{surname}", requestBody.getSurname())
+                .replace("{age}", String.valueOf(requestBody.getAge()))
+                //Person2
+                .replace("{name2}", requestBody.getSurname())
+                .replace("{surname2}", requestBody.getName())
+                .replace("{age_double}", String.valueOf(requestBody.getAge() * 2));
         return ResponseEntity.ok(response);
-
-
-    }
-    private String readFile(String filePath) throws IOException {
-        return new String(Files.readAllBytes(Paths.get(filePath)));
     }
 }
+
+
+

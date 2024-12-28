@@ -5,8 +5,8 @@
         "age":{age}
     },
     "Person2":{
-        "name2":"{surname}",
-        "surname2":"{name}",
+        "name2":"{name}",
+        "surname2":"{surname}",
         "age_double":{age_double}
     }
 }
